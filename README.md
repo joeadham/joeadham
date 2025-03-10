@@ -20,8 +20,8 @@
 <hr />
 
 - 👀 I’m interested in **startups**, **ai**, **deep learning**, and **open-source projects**.
-- 🌱 I’m currently learning **Convolutional neural networks**.
-- 💞️ I’m looking to collaborate on something new and disrupting.
+- 🌱 I’m currently learning **5G networks and Provenance analysis**.
+- 😎 I’m looking to collaborate on something new and disrupting.
 
 <h3 align="center">📫 Reach out to me:</h3>
 <div align="center">

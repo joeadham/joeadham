@@ -18,7 +18,7 @@
 </div>
 
 <hr />
-
+My other github account: https://github.com/joeadham1
 - 👀 I’m interested in **startups**, **ai**, **deep learning**, and **open-source projects**.
 - 🌱 I’m currently learning **5G networks and Provenance analysis**.
 - 😎 I’m looking to collaborate on something new and disrupting.
